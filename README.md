@@ -11,11 +11,8 @@ Este proyecto es una tarjeta de resumen de resultados desarrollada con Tailwind 
 ## Tecnologías
 
 Este proyecto fue desarrollado con las siguientes tecnologías:
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,tailwind" />
-  </a>
-</p>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,tailwind)](https://skillicons.dev)
 
 ## Instalación
 
