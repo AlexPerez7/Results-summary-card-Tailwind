@@ -6,7 +6,7 @@ Este proyecto es una tarjeta de resumen de resultados desarrollada con Tailwind 
 
 ## Vista Previa
 
-![Results Summary Card](ruta/a/tu/imagen.png)
+![Results Summary Card](assets/images/Screenshot_1.png)
 
 ## Instalación
 
@@ -14,7 +14,7 @@ Para utilizar este proyecto, sigue estos pasos:
 
 1. Clona el repositorio:
     ```bash
-    git clone https://github.com/tu-usuario/results-summary-card-tailwind.git
+    git clone https://github.com/AlexPerez7/Results-summary-card-Tailwind.git
     ```
 2. Navega al directorio del proyecto:
     ```bash
